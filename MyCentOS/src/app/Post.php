@@ -158,42 +158,4 @@ class Post{
 }
 
 
-// $day1 = array(
-//     "num" => "1",
-//     "user" => "Noritaka Gibo",
-//     "title" => "9月27日(金)　PHP QUESTの第1回が行われました！",
-//     "content" => 
-//     "
-//     ・PHPに関する市場動向<br>
-//     ・クライアントサーバモデル<br>
-//     ・MOCKアプリケーションの作成<br>                        
-//     ",
-//     "tags" => "#HTML, #CSS",
-// );
-// $day2 = array(
-//     "num" => "2",
-//     "user" => "Noritaka Gibo",
-//     "title" => "10月4日(金)　PHP QUESTの第2回が行われました！",
-//     "content" => 
-//     "
-//     ・CommandLineの使い方<br>  
-//     ・includeによるファイル共通化<br>  
-//     ・PHPのHTMLへの埋め込み<br>  
-//     ",
-//     "tags" => "#PHP",
-// );
-// $day3 = array(
-//     "num" => "３",
-//     "user" => "Noritaka Gibo",
-//     "title" => "10月11日(金)　PHP QUESTの第3回が行われました！",
-//     "content" => 
-//     "
-//     ・プロトコル(HTTP, TCP/IP)<br>  
-//     ・Vagrant,VirtualBox,Apacheとは？<br>  
-//     ・htaccess(フロントコントローラによるルーティング)<br>  
-    
-//     ",
-//     "tags" => "#Vagrant #Docker",
-// );
-// $posts = array($day1, $day2, $day3);
-?> 
+
