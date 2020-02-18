@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/boggy/Desktop/MyVagrant/MyCentOS/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/boggy/Desktop/MyVagrant/MyCentOS","disabled":false,"__vagrantfile":true}}}
